@@ -1,0 +1,26 @@
+{
+  "name": "meow-extension-pack",
+  "displayName": "Meow Extension Pack",
+  "description": "Essential web develpoment extensions",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.91.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "esbenp.prettier-vscode",
+    "naumovs.color-highlight",
+    "johnpapa.vscode-peacock",
+    "aaron-bond.better-comments",
+    "dzhavat.bracket-pair-toggler",
+    "christian-kohler.path-intellisense"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/6hislain/meow-extension-pack"
+  },
+  "publisher": "6hislain",
+  "icon": "icon.jpeg"
+}
