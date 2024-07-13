@@ -1,16 +1,25 @@
-# meow-extension-pack README
+<p align="center">
+  <img src="icon.jpeg" width="125" />
+  <h4 align=center>Meow Extension Pack</h4>
+  <div align="center">
+      <img src="https://img.shields.io/visual-studio-marketplace/v/6hislain.meow-extension-pack?style=for-the-badge&labelColor=1b1b1b&color=78DCE8" />&nbsp;<img src="https://img.shields.io/visual-studio-marketplace/i/6hislain.meow-extension-pack?style=for-the-badge&labelColor=1b1b1b&color=FC9867" />&nbsp;<img src="https://img.shields.io/visual-studio-marketplace/r/6hislain.meow-extension-pack?style=for-the-badge&labelColor=1b1b1b&color=A9DC76" />&nbsp;<img src="https://img.shields.io/visual-studio-marketplace/last-updated/6hislain.meow-extension-pack?style=for-the-badge&labelColor=1b1b1b&color=AB9DF2" />
+  </div>
+</p>
 
-## Working with Markdown
+A collection of essential vscode extensions to get you started with web development
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Extensions include
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+- Better Comments
+- Path Intellisense
+- Bracket Pair Toggler
+- Prettier
+- Color Highlight
+- Peacock
+- Auto Rename Tag
 
-## For more information
+## Want to see your extension added?
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Open a PR and I'd be happy to take a look.
 
 **Enjoy!**
