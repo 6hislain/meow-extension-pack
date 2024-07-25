@@ -31,6 +31,7 @@
     "Extension Packs"
   ],
   "extensionPack": [
+    "Gruntfuggly.todo-tree",
     "esbenp.prettier-vscode",
     "naumovs.color-highlight",
     "johnpapa.vscode-peacock",
