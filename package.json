@@ -36,8 +36,8 @@
     "naumovs.color-highlight",
     "johnpapa.vscode-peacock",
     "aaron-bond.better-comments",
-    "dzhavat.bracket-pair-toggler",
+    "ionutvmi.path-autocomplete",
     "formulahendry.auto-rename-tag",
-    "christian-kohler.path-intellisense"
+    "CoenraadS.bracket-pair-colorizer-2"
   ]
 }
