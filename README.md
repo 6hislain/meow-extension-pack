@@ -17,6 +17,7 @@ A collection of essential vscode extensions to get you started with web developm
 - Color Highlight
 - Peacock
 - Auto Rename Tag
+- Todo Tree
 
 ## Want to see your extension added?
 
