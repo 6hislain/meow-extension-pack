@@ -4,7 +4,7 @@ All notable changes to the "meow-extension-pack" extension pack will be document
 
 ## 1.0.1
 
-- v1.0.1 added Todo Tree
+- added Todo Tree
 
 ## 1.0.0
 
