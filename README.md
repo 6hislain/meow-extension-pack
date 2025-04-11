@@ -12,7 +12,6 @@ A collection of essential vscode extensions to get you started with web developm
 
 - Better Comments
 - Path Autocomplete
-- Bracket Pair Colorizer 2
 - Prettier
 - Color Highlight
 - Peacock
