@@ -20,16 +20,8 @@
   "engines": {
     "vscode": "^1.91.0"
   },
-  "keywords": [
-    "comment",
-    "prettier",
-    "path",
-    "bracket pair",
-    "peacock"
-  ],
-  "categories": [
-    "Extension Packs"
-  ],
+  "keywords": ["comment", "prettier", "path", "bracket pair", "peacock"],
+  "categories": ["Extension Packs"],
   "extensionPack": [
     "Gruntfuggly.todo-tree",
     "esbenp.prettier-vscode",
@@ -37,7 +29,6 @@
     "johnpapa.vscode-peacock",
     "aaron-bond.better-comments",
     "ionutvmi.path-autocomplete",
-    "formulahendry.auto-rename-tag",
-    "CoenraadS.bracket-pair-colorizer-2"
+    "formulahendry.auto-rename-tag"
   ]
 }
